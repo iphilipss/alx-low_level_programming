@@ -7,8 +7,8 @@
  * @argv: An array of pointers to the arguments.
  *
  * Return: If the program receives two arguments - 0.
- * If the program does not receive two arguments - 1.
-*/
+ * 	If the program does not receive two arguments - 1.
+ */
 
 int main(int argc, char *argv[])
 {
