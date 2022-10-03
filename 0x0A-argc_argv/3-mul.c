@@ -24,6 +24,5 @@ int main(int argc, char *argv[])
 	prod = num1 * num2;
 
 	printf("%d\n", prod);
-
 	return (0);
 }
